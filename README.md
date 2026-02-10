@@ -12,11 +12,17 @@ Uma API rest utlizando Laravel 12
 
 - 1 Criar o arquivo .env apartir do arquivo .env.example;
 - 2 Sustituir as credencias do banco de dados pelas do banco de dados local;
-- 3 Executar o comando composer install;
+- 3 Executar
+ ```bash
+  composer install
+ ```
 
 ## Execução
 
-- Executar o camando php artisan serve;
+- Executar
+```bash
+ php artisan serve
+```
 
 
 
