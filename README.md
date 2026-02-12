@@ -15,6 +15,7 @@ Uma API rest utlizando Laravel 12
 - 3 Executar
  ```bash
   composer install
+  php artisan migrate --seed
  ```
 
 ## Execução
